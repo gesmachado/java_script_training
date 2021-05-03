@@ -1,1 +1,1 @@
-# java_script_training
+# java_script_trainning
